@@ -1,0 +1,6 @@
+
+{
+  "name": "CardiaGuard AI",
+  "description": "A world-class heart health diagnostic tool powered by Gemini AI, analyzing UCI database parameters to provide clinical risk assessments.",
+  "requestFramePermissions": []
+}
